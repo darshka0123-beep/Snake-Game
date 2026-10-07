@@ -1,5 +1,5 @@
 # Cupcake worm game
-A grid based snake game built with Python tkinter. Control the worm to collect cupcakes and build up your high score.
+A grid based snake game built with Python tkinter. Control the worm to collect "cupcakes" and build up your high score.
 
 # Features
 Two types of controls; arrow keys and wasd
